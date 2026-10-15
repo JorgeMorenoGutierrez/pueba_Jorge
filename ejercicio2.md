@@ -3,7 +3,7 @@
 este es el **texto** donde se iran probando *los distintos modos* de letras por ejemplo ```negrita, cursiva o codigo```.  
 1. podemos
 2. hacer 
-3. listas ordenadas 
+3. listas ordenadas  
 como la anterior o desordenadas  
 * como
 * esta 
