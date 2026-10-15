@@ -15,7 +15,7 @@ Ahora desde una maquina virtual lo clonaremos esto lo haremos con el comando **g
 ![captura clonando el repositorio apoyandonos de una conexion ssh](imagenes/cap6iaw.png)    
 en este caso estoy utilizando una conexion ssh para que me resulte mas facil copiar los comando y el token.  
 #### paso5:  
-ahora desde nuestra maquina real cambiaremos los ficheros, añadiremos un nuevo fichero y subiremos los cambios con el camino tipico de github **git add . git commit -m y git push.** 
+ahora desde nuestra maquina real cambiaremos los ficheros, añadiremos un nuevo fichero y subiremos los cambios con el camino tipico de github **git add . git commit -m y git push.**  
 ![captura creando un archivo nuevo](imagenes/cap7iaw.png)  
 ![captura modificando un archivo ya creado](imagenes/cap8iaw.png)   
 ![captura demostrando el estado antes de empezar a subir las cosas](imagenes/cap9iaw.png) 
