@@ -11,8 +11,7 @@ como la anterior o desordenadas
 [Enlace a la página web de yedra](https://yedra.educantabria.es/MODACC/)  
 [enalce al ejercicio 1](ejercicio1.md)  
 ![IES Celia Viñas](imagenes/yedra.png)  
-| Nombre | Edad | Ciudad |  
-|---|---|---|  
-| Ana    | 25   | Madrid |  
-| Luis   | 30   | Sevilla |  
-| Marta  | 28   | Bilbao |  
+| Columna 1 | Columna 2 | Columna 3 |  
+|-----------|-----------|-----------|   
+| Dato 1    | Dato 2    | Dato 3    |  
+| Dato 4    | Dato 5    | Dato 6    |
