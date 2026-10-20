@@ -5,7 +5,7 @@ tendremos que crear un fork (es como descargarte una version del github ajeno en
 ![captura donde clono el github](imagenes/cap4.5.png)  
 una vez clonado creamos una rama para identificarnos y hacemos ahi todo lo siguiente
 ![captura donde elimino la rama primera](imagenes/cap4.6.png)  
-una vez que estemos en nuestra rama nos iremos a files y crearemos un archivo de con el nombre **JMG.md** contestando a unas pregntas
+una vez que estemos en nuestra rama nos iremos a files y crearemos un archivo de con el nombre **JMG.md** contestando a unas pregntas  
 ![captura donde elimino la rama primera](imagenes/cap4.3.png)   
 ahora nos vamos al **README.md** y añadimos un enlace a la lista
 ![captura donde elimino la rama primera](imagenes/cap4.1.png)  
