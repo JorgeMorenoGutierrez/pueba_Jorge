@@ -13,7 +13,7 @@ ahora fusionamos ambas ramas con el comando **git merge primera** estando situad
 en este paso borraremos la rama **primera**  
 ![captura donde elimino la rama primera](imagenes/cap3.5.png)  
 #### paso4:  
-creo una nueva rama y me muevo a ella
+creo una nueva rama y me muevo a ella  
 ![captura donde creo una nueva rama y me muevo a ella](imagenes/cap3.6.png)  
 ahora desde la nueva rama modificamos un archivo ya creado para crear conflicto, nos aseguraremos que ambas ramas esten cerrados con commit.
 ![captura donde junto las dos ramas](imagenes/cap3.7.png)  
