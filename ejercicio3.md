@@ -4,7 +4,7 @@ lo primereo que tengo que hacer es crear una nueva rama llamada primera para ell
 ![captura donde se ve como se crea una rama](imagenes/cap3.2.png)  
 ##### paso2:  
 ahora nos **moveremos** a la nueva rama con **git checkout**  
-![captura donde me muevo de rama](imagenes/cap3.1.png) 
+![captura donde me muevo de rama](imagenes/cap3.1.png)  
 ahora creamo un nuevo documento que solamene este en esta rama  
 ![captura donde creo un nuevo documento en la rama primera y no esta en la rama main](imagenes/cap3.3.png)  
 ahora fusionamos ambas ramas con el comando **git merge primera** estando situados en la rama main  
