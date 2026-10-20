@@ -12,4 +12,4 @@ ahora nos vamos al **README.md** y añadimos un enlace a la lista
 cuando acabemos todo esto haremos **git add. git commit -m git push -u origin nombre de la rama** y despues volvemos al github y hacemos un pull request.
 ![captura donde elimino la rama primera](imagenes/cap4.2.png)  
 despues volvemos al github y una vez nos acepten le damos a sync fork  
-![captura donde elimino la rama primera](imagenes/cap4.7.png)  
+![captura donde elimino la rama primera](imagenes/cap4.7.png)
